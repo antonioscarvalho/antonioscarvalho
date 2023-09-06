@@ -6,8 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniosousac2003@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniocarvlh/)
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioscarvalho&show_icons=true&theme=tokyonight)
-
 ### Technologies I use:
 
 <div style="display: inline_block"><br/>
