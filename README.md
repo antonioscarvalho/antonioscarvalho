@@ -1,6 +1,6 @@
 ## Hi there! My name is Antonio! 👋
 
-### 👨Social networks and contact👨:
+### Social networks and contact👨:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniocarvalho1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniosousac2003@gmail.com)
