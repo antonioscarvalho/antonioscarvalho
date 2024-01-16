@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=48D1CC&background=2BFFF600&center=true&vCenter=true&width=600&=50&lines=Hi+there!;My+name+is+Antonio+Carvalho.;Welcome+to+my+profile!" 
 alt="Typing SVG" /></a>
-
+</div>
 
 ### Social networks and contact👨:
 
