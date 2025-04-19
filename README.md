@@ -1,8 +1,8 @@
-## Contact👨:
+## Social network and contact👨:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioscarvalho/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniosousac2003@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonio.carvalho@aluno.unb.br)
-
 
 ## Technologies I use🚀:
 
@@ -20,6 +20,7 @@
 ### Back-end:
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />    
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -35,6 +36,7 @@
 
 ### Terminal
 <div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=whit" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -48,7 +50,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-#### This "ReadMe":
+## Office👨‍💻:
+
+#### • All Google workspace;
+#### • The LibreOffice suite;
+#### • And the 365 of Microsoft.
+
+## This "ReadMe" made with:
 <div>
     <img align="left" alt="html5" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
 </div>
